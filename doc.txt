@@ -1,0 +1,19 @@
+header:
+font-color: #3d2514;
+Express Delivery +1 234 567 890
+Home       Menu       Our Story       Contact Us
+
+It is a good time for the great taste of burgers
+Burger
+Week
+font-family: 'Bebas Neue', cursive;400;700;
+font-family: 'Montserrat', sans-serif;400,700;
+font-family: 'Alfa Slab One', cursive;
+table border :
+color: #dfdfdf;
+color: #3d3d3d;
+color: #503e33;
+color: #bf2222;
+color: #ffffff;
+dot:
+background-color: #dcdcdc;
